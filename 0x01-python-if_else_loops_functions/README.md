@@ -6,3 +6,4 @@
 A program that prints all possible different combinations of two digits
 7-islower.py - A program that test if a character is lower or upper
 8-uppercase.py - a program that convert a string to uppercase
+ 10-add.py - A program that adds two numbers
