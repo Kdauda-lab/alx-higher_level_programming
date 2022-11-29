@@ -4,3 +4,4 @@
 3-print_alphabt.py - A program that prints the ASCII alphabet except q and e
 4-print_hexa.py - A program that prints the hex value of 0 through 98
 A program that prints all possible different combinations of two digits
+7-islower.py - A program that test if a character is lower or upper
