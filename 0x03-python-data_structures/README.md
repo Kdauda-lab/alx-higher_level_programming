@@ -5,3 +5,4 @@
 4-new_in_list.py -  a function that prints all integers of a list, in reverse order.
 7-add_tuple.py - A program that adds two tuples
 8-multiple_returns.py - A program that returns a tuple with the length and first character of a string
+9-max_integer.py - A program that checks for the max number
