@@ -9,3 +9,4 @@
 8-multiple_returns.py - A program that returns a tuple with the length and first character of a string
 9-max_integer.py - A program that checks for the max number
 10-divisible_by_2.py - A program that finds all multiples of 2 in a list
+11-delete_at.py - Deletes a item at a specific position in a list
